@@ -3,6 +3,6 @@ VBA Outlook macro that generates replies, prepended with an automatically-genera
 
 Sample output -- "Hello Mr. Smith,"
 
-This macro will look at your local time, and generate a time-appropriate salutation (Good morning/Good afternoon/Good evening). It will look at the first word of the sender display name, adjust the case, and append it that the greeting.
+This macro will look at your local time, and generate a time-appropriate salutation (Good morning/Good afternoon/Good evening). It will look at the first word of the sender display name, adjust the case, and append it that the salutation.
 
-You can add this macro to your quick access toolbar in Outlook, and use this macro in place of the reply button. 
+You can add this macro to your quick access toolbar/toolbar in Outlook, and use this macro in place of the reply button. 
